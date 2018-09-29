@@ -5,7 +5,7 @@ import pandas as pd
 from tqdm import tqdm
 import numpy as np
 fred = Fred(api_key='APIkey')
-treeDF = pd.read_csv('../data/cateTree.csv', index_col=0)
+treeDF = pd.read_csv('cateTree.csv', index_col=0)
 treeDF.index = range(treeDF.shape[0])
 # Divide the task into multi threads
 totalWork = treeDF.shape[0]
@@ -23,13 +23,16 @@ def download(rangeCato, name):
             try:
                 popu = fred.search_by_category(treeDF.loc[index, 'cate3Index'], limit=10, order_by='popularity', sort_order='desc')
                 for detailIndex, detialValues in popu.iterrows():
-                    allData.append(pd.DataFrame(fred.get_series(detailIndex), columns=[detailIndex]))
+                    dataInfo.append(fred.get_series_info(detailIndex))
+                allData.append(pd.DataFrame(fred.get_series(detailIndex), columns=[detailIndex]))
                 allDataIn = pd.concat(allData, axis=1)
-                allDataIn.to_csv('../data/allData'+name+'.csv')
+                dataInfoIn = pd.concat(dataInfo, axis=1)
+                allDataIn.to_csv('allData'+name+'.csv')
+                dataInfoIn.to_csv('info'+name+'.csv')
             except:
                 print treeDF.loc[index, 'cate3Index'], 'can not be found'
                 error.append(treeDF.loc[index, 'cate3Index'])
-                np.savetxt('../data/errorLog'+name+'.csv',error,delimiter=',')
+                np.savetxt('errorLog'+name+'.csv',error,delimiter=',')
     print 'thread %s ended.' % threading.current_thread().name
 
 threadList = [threading.Thread(target=download, args=(range(index*threadNum, (index+1)*threadNum), str(index),), name='DownloadThread'+str(index)) for index in range(threadNum)]
