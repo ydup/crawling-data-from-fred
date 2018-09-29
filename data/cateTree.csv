@@ -1,0 +1,576 @@
+,cate1Index,cate1Name,cate2Index,cate2Name,cate3Index,cate3Name
+0,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33058,Automobile Loan Rates
+1,32991,"Money, Banking, &amp; Finance",22,Interest Rates,51,Bankers Acceptance Rate
+2,32991,"Money, Banking, &amp; Finance",22,Interest Rates,121,Certificates of Deposit
+3,32991,"Money, Banking, &amp; Finance",22,Interest Rates,120,Commercial Paper
+4,32991,"Money, Banking, &amp; Finance",22,Interest Rates,32348,Corporate Bonds
+5,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33059,Credit Card Loan Rates
+6,32991,"Money, Banking, &amp; Finance",22,Interest Rates,32298,Eurodollar Deposits
+7,32991,"Money, Banking, &amp; Finance",22,Interest Rates,118,"FRB Rates - discount, fed funds, primary credit"
+8,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33056,Interest Checking Accounts
+9,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33446,Interest Rate Spreads
+10,32991,"Money, Banking, &amp; Finance",22,Interest Rates,32299,Interest Rate Swaps
+11,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33003,LIBOR Rates
+12,32991,"Money, Banking, &amp; Finance",22,Interest Rates,32995,Long-Term Securities
+13,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33055,Money Market Accounts
+14,32991,"Money, Banking, &amp; Finance",22,Interest Rates,114,Mortgage Rates
+15,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33057,Personal Loan Rates
+16,32991,"Money, Banking, &amp; Finance",22,Interest Rates,117,Prime Bank Loan Rate
+17,32991,"Money, Banking, &amp; Finance",22,Interest Rates,33491,Saving Accounts
+18,32991,"Money, Banking, &amp; Finance",22,Interest Rates,116,Treasury Bills
+19,32991,"Money, Banking, &amp; Finance",22,Interest Rates,115,Treasury Constant Maturity
+20,32991,"Money, Banking, &amp; Finance",22,Interest Rates,82,Treasury Inflation-Indexed Securities
+21,32991,"Money, Banking, &amp; Finance",15,Exchange Rates,94,Daily Rates
+22,32991,"Money, Banking, &amp; Finance",15,Exchange Rates,95,Monthly Rates
+23,32991,"Money, Banking, &amp; Finance",15,Exchange Rates,32219,Annual Rates
+24,32991,"Money, Banking, &amp; Finance",15,Exchange Rates,105,Trade-Weighted Indexes
+25,32991,"Money, Banking, &amp; Finance",15,Exchange Rates,158,By Country
+26,32991,"Money, Banking, &amp; Finance",24,Monetary Data,124,Monetary Base
+27,32991,"Money, Banking, &amp; Finance",24,Monetary Data,123,Reserves
+28,32991,"Money, Banking, &amp; Finance",24,Monetary Data,25,M1 and Components
+29,32991,"Money, Banking, &amp; Finance",24,Monetary Data,29,M2 and Components
+30,32991,"Money, Banking, &amp; Finance",24,Monetary Data,96,M2 Minus Small Time Deposits
+31,32991,"Money, Banking, &amp; Finance",24,Monetary Data,28,M3 and Components
+32,32991,"Money, Banking, &amp; Finance",24,Monetary Data,30,MZM
+33,32991,"Money, Banking, &amp; Finance",24,Monetary Data,26,Memorandum Items
+34,32991,"Money, Banking, &amp; Finance",24,Monetary Data,32242,Money Velocity
+35,32991,"Money, Banking, &amp; Finance",24,Monetary Data,122,Borrowings
+36,32991,"Money, Banking, &amp; Finance",24,Monetary Data,32215,Factors Affecting Reserve Balances
+37,32991,"Money, Banking, &amp; Finance",24,Monetary Data,32218,"Securities, Loans, &amp; Other Assets &amp; Liabilities Held by Fed"
+38,32991,"Money, Banking, &amp; Finance",46,Financial Indicators,32414,Bond Market Indexes
+39,32991,"Money, Banking, &amp; Finance",46,Financial Indicators,33119,Consumer Financial Condition Indexes
+40,32991,"Money, Banking, &amp; Finance",46,Financial Indicators,32457,Financial Activity Measures
+41,32991,"Money, Banking, &amp; Finance",46,Financial Indicators,32255,Stock Market Indexes
+42,32991,"Money, Banking, &amp; Finance",46,Financial Indicators,32425,Volatility Indexes
+43,32991,"Money, Banking, &amp; Finance",23,Banking,100,Commercial Banking
+44,32991,"Money, Banking, &amp; Finance",23,Banking,83,Condition of Banks
+45,32991,"Money, Banking, &amp; Finance",23,Banking,101,Consumer Credit
+46,32991,"Money, Banking, &amp; Finance",23,Banking,32440,Delinquencies and Delinquency Rates
+47,32991,"Money, Banking, &amp; Finance",23,Banking,33121,Failures and Assistance Transactions
+48,32991,"Money, Banking, &amp; Finance",23,Banking,64,8th District Banking Performance
+49,32991,"Money, Banking, &amp; Finance",23,Banking,33445,Mortgage Debt Outstanding
+50,32991,"Money, Banking, &amp; Finance",23,Banking,32439,Net Charge-Offs and Charge-Off Rates
+51,32991,"Money, Banking, &amp; Finance",23,Banking,99,Securities &amp; Investments
+52,32991,"Money, Banking, &amp; Finance",23,Banking,32239,Senior Loan Officer Survey
+53,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32996,Commercial Paper
+54,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32406,Commercial and Industrial Loans by Time that Pricing Terms Were Set and by Commitment
+55,32991,"Money, Banking, &amp; Finance",32360,Business Lending,33439,Commercial and Industrial Loans Backed by Small Business Association
+56,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32361,Commercial and Industrial Loans Made by All Commercial Banks
+57,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32370,Commercial and Industrial Loans Made by Domestic Banks
+58,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32379,Commercial and Industrial Loans Made by Large Domestic Banks
+59,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32388,Commercial and Industrial Loans Made by Small Domestic Banks
+60,32991,"Money, Banking, &amp; Finance",32360,Business Lending,32397,Commercial and Industrial Loans Made by U.S. Branches and Agencies of Foreign Banks
+61,32991,"Money, Banking, &amp; Finance",32360,Business Lending,33440,Commercial and Industrial Loans Made Under Participation or Syndication
+62,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32442,Civilian Labor Force
+63,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32443,Civilian Labor Force Participation Rate
+64,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32444,Employment
+65,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32445,Employment Population Ratio
+66,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32446,Unemployment Level
+67,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32447,Unemployment Rate
+68,10,"Population, Employment, &amp; Labor Markets",12,Current Population Survey (Household Survey),32448,Not in Labor Force
+69,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32305,Total Nonfarm
+70,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32306,Total Private
+71,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32307,Goods-Producing
+72,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32326,Service-Providing
+73,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32308,Private Service-Providing
+74,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32309,Mining and Logging
+75,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32310,Construction
+76,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32311,Manufacturing
+77,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32312,Durable Goods
+78,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32313,Nondurable Goods
+79,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32314,"Trade, Transportation, and Utilities"
+80,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32315,Wholesale Trade
+81,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32316,Retail Trade
+82,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32317,Transportation and Warehousing
+83,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32318,Utilities
+84,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32319,Information
+85,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32320,Financial Activities
+86,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32321,Professional and Business Services
+87,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32322,Education and Health Services
+88,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32323,Leisure and Hospitality
+89,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32324,Other Services
+90,10,"Population, Employment, &amp; Labor Markets",11,Current Employment Statistics (Establishment Survey),32325,Government
+91,10,"Population, Employment, &amp; Labor Markets",32241,Job Openings and Labor Turnover (JOLTS),32243,Job Openings (Levels and Rates)
+92,10,"Population, Employment, &amp; Labor Markets",32241,Job Openings and Labor Turnover (JOLTS),32245,Hires (Levels and Rates)
+93,10,"Population, Employment, &amp; Labor Markets",32241,Job Openings and Labor Turnover (JOLTS),32246,Total Separations (Levels and Rates)
+94,10,"Population, Employment, &amp; Labor Markets",104,Population,33735,Poverty Measures
+95,10,"Population, Employment, &amp; Labor Markets",2,Productivity &amp; Costs,32349,Manufacturing
+96,10,"Population, Employment, &amp; Labor Markets",2,Productivity &amp; Costs,32350,Business
+97,10,"Population, Employment, &amp; Labor Markets",2,Productivity &amp; Costs,32351,Nonfarm Business
+98,10,"Population, Employment, &amp; Labor Markets",2,Productivity &amp; Costs,32354,Nonfinancial Corporations
+99,32992,National Accounts,18,National Income &amp; Product Accounts,112,Domestic Capital Account (Saving &amp; Investment)
+100,32992,National Accounts,18,National Income &amp; Product Accounts,108,Foreign Transactions
+101,32992,National Accounts,18,National Income &amp; Product Accounts,33697,Fixed Assets
+102,32992,National Accounts,18,National Income &amp; Product Accounts,33122,Gross Domestic Income
+103,32992,National Accounts,18,National Income &amp; Product Accounts,106,GDP/GNP
+104,32992,National Accounts,18,National Income &amp; Product Accounts,107,"Gov&#039;t Receipts, Expenditures &amp; Investment"
+105,32992,National Accounts,18,National Income &amp; Product Accounts,33719,Health Care Spending
+106,32992,National Accounts,18,National Income &amp; Product Accounts,33054,Imputations
+107,32992,National Accounts,18,National Income &amp; Product Accounts,33045,Industry
+108,32992,National Accounts,18,National Income &amp; Product Accounts,110,Personal Income &amp; Outlays
+109,32992,National Accounts,18,National Income &amp; Product Accounts,21,Price Indexes &amp; Deflators
+110,32992,National Accounts,18,National Income &amp; Product Accounts,109,Private Enterprise Income
+111,32992,National Accounts,18,National Income &amp; Product Accounts,33021,Quantity Indexes
+112,32992,National Accounts,18,National Income &amp; Product Accounts,33401,Effect of ARRA on Selected NIPA Estimates
+113,32992,National Accounts,32251,Flow of Funds,32258,B.101 Balance Sheet of Households and Nonprofit Organizations
+114,32992,National Accounts,32251,Flow of Funds,32259,B.103 Balance Sheet of Nonfinancial Corporate Business
+115,32992,National Accounts,32251,Flow of Funds,32260,B.104 Balance Sheet of Nonfinancial Noncorporate Business
+116,32992,National Accounts,32251,Flow of Funds,32256,D.3 Credit Market Debt Outstanding by Sector
+117,32992,National Accounts,32251,Flow of Funds,32257,L.1 Credit Market Debt Outstanding
+118,32992,National Accounts,32251,Flow of Funds,33722,L.203 Net Interbank Transactions
+119,32992,National Accounts,32251,Flow of Funds,33726,L.208 Debt Securities
+120,32992,National Accounts,32251,Flow of Funds,33729,L.214 Loans
+121,32992,National Accounts,32251,Flow of Funds,33204,S.1 Total Economy - Current Account
+122,32992,National Accounts,32251,Flow of Funds,33205,S.2 Selected Aggregates for Total Economy and Sectors
+123,32992,National Accounts,32251,Flow of Funds,33240,S.3 Households and Nonprofit Institutions Serving Households
+124,32992,National Accounts,32251,Flow of Funds,33241,S.4 Nonfinancial Noncorporate Business
+125,32992,National Accounts,32251,Flow of Funds,33242,S.5 Nonfinancial Corporate Business
+126,32992,National Accounts,32251,Flow of Funds,33243,S.6 Financial Business
+127,32992,National Accounts,32251,Flow of Funds,33244,S.7 Federal Government
+128,32992,National Accounts,32251,Flow of Funds,33245,S.8 State and Local Governments
+129,32992,National Accounts,32251,Flow of Funds,33246,S.9 Rest of the World
+130,32992,National Accounts,13,U.S. Trade &amp; International Transactions,16,Exports
+131,32992,National Accounts,13,U.S. Trade &amp; International Transactions,17,Imports
+132,32992,National Accounts,13,U.S. Trade &amp; International Transactions,3000,Income Payments &amp; Receipts
+133,32992,National Accounts,13,U.S. Trade &amp; International Transactions,33705,International Investment Position
+134,32992,National Accounts,13,U.S. Trade &amp; International Transactions,125,Trade Balance
+135,32992,National Accounts,13,U.S. Trade &amp; International Transactions,127,U.S. International Finance
+136,1,Production &amp; Business Activity,97,Housing,32300,Housing Units Authorized by Building Permits
+137,1,Production &amp; Business Activity,97,Housing,32301,"Housing Units Authorized, But Not Yet Started"
+138,1,Production &amp; Business Activity,97,Housing,32302,Housing Starts
+139,1,Production &amp; Business Activity,97,Housing,32261,House Price Indexes
+140,1,Production &amp; Business Activity,32429,Manufacturing,32432,Inventories
+141,1,Production &amp; Business Activity,32429,Manufacturing,32431,New Orders
+142,1,Production &amp; Business Activity,32429,Manufacturing,32433,Inventory to Shipments
+143,1,Production &amp; Business Activity,33202,Transportation,32993,Motor Vehicles
+144,32455,Prices,9,Consumer Price Indexes (CPI and PCE),32415,Food and Beverages
+145,32455,Prices,9,Consumer Price Indexes (CPI and PCE),32416,Housing
+146,32455,Prices,9,Consumer Price Indexes (CPI and PCE),32417,Apparel
+147,32455,Prices,9,Consumer Price Indexes (CPI and PCE),32418,Transportation
+148,32455,Prices,9,Consumer Price Indexes (CPI and PCE),32419,Medical Care
+149,32455,Prices,4,Employment Cost Index,10,"Population, Employment, &amp; Labor Markets"
+150,32455,Prices,31,Producer Price Indexes (PPI),33583,Commodity Based
+151,32455,Prices,32220,Trade Indexes,32221,Import Price Indexes
+152,32455,Prices,32220,Trade Indexes,32224,Export Price Indexes
+153,32455,Prices,32220,Trade Indexes,32231,Services Price Indexes
+154,32263,International Data,32264,Countries,32641,Afghanistan
+155,32263,International Data,32264,Countries,32643,Albania
+156,32263,International Data,32264,Countries,32644,Algeria
+157,32263,International Data,32264,Countries,32645,American Samoa
+158,32263,International Data,32264,Countries,32646,Andorra
+159,32263,International Data,32264,Countries,32647,Angola
+160,32263,International Data,32264,Countries,32648,Anguilla
+161,32263,International Data,32264,Countries,32650,Antigua and Barbuda
+162,32263,International Data,32264,Countries,32651,Argentina
+163,32263,International Data,32264,Countries,32652,Armenia
+164,32263,International Data,32264,Countries,32653,Aruba
+165,32263,International Data,32264,Countries,32269,Australia
+166,32263,International Data,32264,Countries,32282,Austria
+167,32263,International Data,32264,Countries,32654,Azerbaijan
+168,32263,International Data,32264,Countries,32655,Bahamas
+169,32263,International Data,32264,Countries,32656,Bahrain
+170,32263,International Data,32264,Countries,32657,Bangladesh
+171,32263,International Data,32264,Countries,32658,Barbados
+172,32263,International Data,32264,Countries,32659,Belarus
+173,32263,International Data,32264,Countries,32270,Belgium
+174,32263,International Data,32264,Countries,32660,Belize
+175,32263,International Data,32264,Countries,32661,Benin
+176,32263,International Data,32264,Countries,32662,Bermuda
+177,32263,International Data,32264,Countries,32663,Bhutan
+178,32263,International Data,32264,Countries,32664,"Bolivia, Plurinational State of"
+179,32263,International Data,32264,Countries,32665,Caribbean Netherlands
+180,32263,International Data,32264,Countries,32666,Bosnia and Herzegovina
+181,32263,International Data,32264,Countries,32667,Botswana
+182,32263,International Data,32264,Countries,32327,Brazil
+183,32263,International Data,32264,Countries,32669,British Indian Ocean Territory
+184,32263,International Data,32264,Countries,32670,Brunei Darussalam
+185,32263,International Data,32264,Countries,32671,Bulgaria
+186,32263,International Data,32264,Countries,32672,Burkina Faso
+187,32263,International Data,32264,Countries,32673,Burundi
+188,32263,International Data,32264,Countries,32674,Cambodia
+189,32263,International Data,32264,Countries,32675,Cameroon
+190,32263,International Data,32264,Countries,32268,Canada
+191,32263,International Data,32264,Countries,32676,Cape Verde
+192,32263,International Data,32264,Countries,32677,Cayman Islands
+193,32263,International Data,32264,Countries,32678,Central African Republic
+194,32263,International Data,32264,Countries,32679,Chad
+195,32263,International Data,32264,Countries,32328,Chile
+196,32263,International Data,32264,Countries,32329,China
+197,32263,International Data,32264,Countries,32680,Christmas Island
+198,32263,International Data,32264,Countries,32681,Cocos (Keeling) Islands
+199,32263,International Data,32264,Countries,32682,Colombia
+200,32263,International Data,32264,Countries,32683,Comoros
+201,32263,International Data,32264,Countries,32684,"Congo, Republic of the"
+202,32263,International Data,32264,Countries,32685,"Congo, Democratic Republic of the"
+203,32263,International Data,32264,Countries,32686,Cook Islands
+204,32263,International Data,32264,Countries,32687,Costa Rica
+205,32263,International Data,32264,Countries,32688,Côte d’Ivoire
+206,32263,International Data,32264,Countries,32689,Croatia
+207,32263,International Data,32264,Countries,32690,Cuba
+208,32263,International Data,32264,Countries,32691,Curaçao
+209,32263,International Data,32264,Countries,32692,Cyprus
+210,32263,International Data,32264,Countries,32288,Czech Republic
+211,32263,International Data,32264,Countries,32271,Denmark
+212,32263,International Data,32264,Countries,32693,Djibouti
+213,32263,International Data,32264,Countries,32694,Dominica
+214,32263,International Data,32264,Countries,32695,Dominican Republic
+215,32263,International Data,32264,Countries,32696,Ecuador
+216,32263,International Data,32264,Countries,32697,Egypt
+217,32263,International Data,32264,Countries,32698,El Salvador
+218,32263,International Data,32264,Countries,32699,Equatorial Guinea
+219,32263,International Data,32264,Countries,32700,Eritrea
+220,32263,International Data,32264,Countries,32701,Estonia
+221,32263,International Data,32264,Countries,32702,Ethiopia
+222,32263,International Data,32264,Countries,32703,Falkland Islands
+223,32263,International Data,32264,Countries,32704,Faroe Islands
+224,32263,International Data,32264,Countries,32705,Fiji
+225,32263,International Data,32264,Countries,32289,Finland
+226,32263,International Data,32264,Countries,32272,France
+227,32263,International Data,32264,Countries,32706,French Guiana
+228,32263,International Data,32264,Countries,32707,French Polynesia
+229,32263,International Data,32264,Countries,32708,French Southern Territories
+230,32263,International Data,32264,Countries,32709,Gabon
+231,32263,International Data,32264,Countries,32710,Republic of the Gambia
+232,32263,International Data,32264,Countries,32711,Georgia
+233,32263,International Data,32264,Countries,32273,Germany
+234,32263,International Data,32264,Countries,32712,Ghana
+235,32263,International Data,32264,Countries,32713,Gibraltar
+236,32263,International Data,32264,Countries,32330,Greece
+237,32263,International Data,32264,Countries,32714,Greenland
+238,32263,International Data,32264,Countries,32715,Grenada
+239,32263,International Data,32264,Countries,32716,Guadeloupe
+240,32263,International Data,32264,Countries,32717,Guam
+241,32263,International Data,32264,Countries,32718,Guatemala
+242,32263,International Data,32264,Countries,32720,Guinea
+243,32263,International Data,32264,Countries,32721,Guinea-Bissau
+244,32263,International Data,32264,Countries,32722,Guyana
+245,32263,International Data,32264,Countries,32723,Haiti
+246,32263,International Data,32264,Countries,32724,Heard Island and McDonald Islands
+247,32263,International Data,32264,Countries,32725,Holy See (Vatican City State)
+248,32263,International Data,32264,Countries,32726,Honduras
+249,32263,International Data,32264,Countries,32727,Hong Kong
+250,32263,International Data,32264,Countries,32331,Hungary
+251,32263,International Data,32264,Countries,32334,Iceland
+252,32263,International Data,32264,Countries,32333,India
+253,32263,International Data,32264,Countries,32332,Indonesia
+254,32263,International Data,32264,Countries,32728,"Iran, Islamic Republic of"
+255,32263,International Data,32264,Countries,32729,Iraq
+256,32263,International Data,32264,Countries,32290,Ireland
+257,32263,International Data,32264,Countries,32730,Isle of Man
+258,32263,International Data,32264,Countries,32335,Israel
+259,32263,International Data,32264,Countries,32274,Italy
+260,32263,International Data,32264,Countries,32731,Jamaica
+261,32263,International Data,32264,Countries,32281,Japan
+262,32263,International Data,32264,Countries,32733,Jordan
+263,32263,International Data,32264,Countries,32734,Kazakhstan
+264,32263,International Data,32264,Countries,32735,Kenya
+265,32263,International Data,32264,Countries,32736,Kiribati
+266,32263,International Data,32264,Countries,32737,"Korea, Democratic People&#039;s Republic of (North Korea)"
+267,32263,International Data,32264,Countries,32286,"Korea, Republic of (South Korea)"
+268,32263,International Data,32264,Countries,32738,Kuwait
+269,32263,International Data,32264,Countries,32739,Kyrgyz Republic
+270,32263,International Data,32264,Countries,32740,Lao People&#039;s Democratic Republic
+271,32263,International Data,32264,Countries,32741,Latvia
+272,32263,International Data,32264,Countries,32742,Lebanon
+273,32263,International Data,32264,Countries,32743,Lesotho
+274,32263,International Data,32264,Countries,32744,Liberia
+275,32263,International Data,32264,Countries,32745,Libyan Arab Jamahiriya
+276,32263,International Data,32264,Countries,32746,Liechtenstein
+277,32263,International Data,32264,Countries,32747,Lithuania
+278,32263,International Data,32264,Countries,32336,Luxembourg
+279,32263,International Data,32264,Countries,32748,Macao
+280,32263,International Data,32264,Countries,32749,"Macedonia, Former Yugoslav Republic of"
+281,32263,International Data,32264,Countries,32750,Madagascar
+282,32263,International Data,32264,Countries,32751,Malawi
+283,32263,International Data,32264,Countries,32752,Malaysia
+284,32263,International Data,32264,Countries,32753,Maldives
+285,32263,International Data,32264,Countries,32754,Mali
+286,32263,International Data,32264,Countries,32755,Malta
+287,32263,International Data,32264,Countries,32756,Marshall Islands
+288,32263,International Data,32264,Countries,32757,Martinique
+289,32263,International Data,32264,Countries,32758,Mauritania
+290,32263,International Data,32264,Countries,32759,Mauritius
+291,32263,International Data,32264,Countries,32760,Mayotte
+292,32263,International Data,32264,Countries,32337,Mexico
+293,32263,International Data,32264,Countries,32761,"Micronesia, Federated States of"
+294,32263,International Data,32264,Countries,32762,"Moldova, Republic of"
+295,32263,International Data,32264,Countries,32763,Monaco
+296,32263,International Data,32264,Countries,32764,Mongolia
+297,32263,International Data,32264,Countries,32765,Montenegro
+298,32263,International Data,32264,Countries,32766,Montserrat
+299,32263,International Data,32264,Countries,32767,Morocco
+300,32263,International Data,32264,Countries,32768,Mozambique
+301,32263,International Data,32264,Countries,32769,Myanmar
+302,32263,International Data,32264,Countries,32770,Namibia
+303,32263,International Data,32264,Countries,32771,Nauru
+304,32263,International Data,32264,Countries,32772,Nepal
+305,32263,International Data,32264,Countries,32275,Netherlands
+306,32263,International Data,32264,Countries,32773,New Caledonia
+307,32263,International Data,32264,Countries,32338,New Zealand
+308,32263,International Data,32264,Countries,32774,Nicaragua
+309,32263,International Data,32264,Countries,32775,Niger
+310,32263,International Data,32264,Countries,32776,Nigeria
+311,32263,International Data,32264,Countries,32777,Niue
+312,32263,International Data,32264,Countries,32778,Norfolk Island
+313,32263,International Data,32264,Countries,32779,Northern Mariana Islands
+314,32263,International Data,32264,Countries,32276,Norway
+315,32263,International Data,32264,Countries,32780,Oman
+316,32263,International Data,32264,Countries,32781,Pakistan
+317,32263,International Data,32264,Countries,32782,Palau
+318,32263,International Data,32264,Countries,32783,Palestinian Territories
+319,32263,International Data,32264,Countries,32784,Panama
+320,32263,International Data,32264,Countries,32785,Papua New Guinea
+321,32263,International Data,32264,Countries,32786,Paraguay
+322,32263,International Data,32264,Countries,32787,Peru
+323,32263,International Data,32264,Countries,32788,Philippines
+324,32263,International Data,32264,Countries,32789,Pitcairn
+325,32263,International Data,32264,Countries,32339,Poland
+326,32263,International Data,32264,Countries,32340,Portugal
+327,32263,International Data,32264,Countries,32790,Puerto Rico
+328,32263,International Data,32264,Countries,32791,Qatar
+329,32263,International Data,32264,Countries,32792,Reunion
+330,32263,International Data,32264,Countries,32793,Romania
+331,32263,International Data,32264,Countries,32341,Russian Federation
+332,32263,International Data,32264,Countries,32794,Rwanda
+333,32263,International Data,32264,Countries,32796,"Saint Helena, Ascension and Tristan da Cunha"
+334,32263,International Data,32264,Countries,32797,Saint Kitts and Nevis
+335,32263,International Data,32264,Countries,32798,Saint Lucia
+336,32263,International Data,32264,Countries,32799,"Saint Martin, Collectivity of"
+337,32263,International Data,32264,Countries,32800,Saint Pierre and Miquelon
+338,32263,International Data,32264,Countries,32801,Saint Vincent and the Grenadines
+339,32263,International Data,32264,Countries,32802,Samoa
+340,32263,International Data,32264,Countries,32803,San Marino
+341,32263,International Data,32264,Countries,32804,Sao Tome and Principe
+342,32263,International Data,32264,Countries,32805,Saudi Arabia
+343,32263,International Data,32264,Countries,32806,Senegal
+344,32263,International Data,32264,Countries,32807,Serbia
+345,32263,International Data,32264,Countries,32808,Seychelles
+346,32263,International Data,32264,Countries,32809,Sierra Leone
+347,32263,International Data,32264,Countries,32287,Singapore
+348,32263,International Data,32264,Countries,32810,Sint Maarten (Dutch part)
+349,32263,International Data,32264,Countries,32342,Slovak Republic
+350,32263,International Data,32264,Countries,32343,Slovenia
+351,32263,International Data,32264,Countries,32811,Solomon Islands
+352,32263,International Data,32264,Countries,32812,Somalia
+353,32263,International Data,32264,Countries,32345,South Africa
+354,32263,International Data,32264,Countries,32814,South Sudan
+355,32263,International Data,32264,Countries,32277,Spain
+356,32263,International Data,32264,Countries,32815,Sri Lanka
+357,32263,International Data,32264,Countries,32816,Sudan
+358,32263,International Data,32264,Countries,32817,Suriname
+359,32263,International Data,32264,Countries,32818,Svalbard and Jan Mayen
+360,32263,International Data,32264,Countries,32819,Swaziland
+361,32263,International Data,32264,Countries,32278,Sweden
+362,32263,International Data,32264,Countries,32279,Switzerland
+363,32263,International Data,32264,Countries,32820,Syrian Arab Republic
+364,32263,International Data,32264,Countries,32438,Taiwan
+365,32263,International Data,32264,Countries,32821,Tajikistan
+366,32263,International Data,32264,Countries,32822,"Tanzania, United Republic of"
+367,32263,International Data,32264,Countries,32823,Thailand
+368,32263,International Data,32264,Countries,32824,Timor-Leste
+369,32263,International Data,32264,Countries,32825,Togo
+370,32263,International Data,32264,Countries,32826,Tokelau
+371,32263,International Data,32264,Countries,32827,Tonga
+372,32263,International Data,32264,Countries,32828,Trinidad and Tobago
+373,32263,International Data,32264,Countries,32829,Tunisia
+374,32263,International Data,32264,Countries,32344,Turkey
+375,32263,International Data,32264,Countries,32830,Turkmenistan
+376,32263,International Data,32264,Countries,32831,Turks and Caicos Islands
+377,32263,International Data,32264,Countries,32832,Tuvalu
+378,32263,International Data,32264,Countries,32833,Uganda
+379,32263,International Data,32264,Countries,32834,Ukraine
+380,32263,International Data,32264,Countries,32835,United Arab Emirates
+381,32263,International Data,32264,Countries,32280,United Kingdom
+382,32263,International Data,32264,Countries,32267,United States
+383,32263,International Data,32264,Countries,32837,Uruguay
+384,32263,International Data,32264,Countries,32838,Uzbekistan
+385,32263,International Data,32264,Countries,32839,Vanuatu
+386,32263,International Data,32264,Countries,32840,"Venezuela, Bolivarian Republic of"
+387,32263,International Data,32264,Countries,32841,Viet Nam
+388,32263,International Data,32264,Countries,32842,"Virgin Islands, British"
+389,32263,International Data,32264,Countries,32843,"Virgin Islands, U.S."
+390,32263,International Data,32264,Countries,32844,Wallis and Futuna
+391,32263,International Data,32264,Countries,32845,Western Sahara
+392,32263,International Data,32264,Countries,32846,"Yemen, Republic of"
+393,32263,International Data,32264,Countries,32946,Kosovo
+394,32263,International Data,32264,Countries,32847,Zambia
+395,32263,International Data,32264,Countries,32848,Zimbabwe
+396,32263,International Data,32955,Geography,32963,Africa
+397,32263,International Data,32955,Geography,32964,Americas
+398,32263,International Data,32955,Geography,32965,Asia
+399,32263,International Data,32265,Indicators,33000,"Money, Banking, &amp; Finance"
+400,32263,International Data,32265,Indicators,32997,National Accounts
+401,32263,International Data,32265,Indicators,32999,"Population, Employment, &amp; Labor Markets"
+402,32263,International Data,32265,Indicators,32294,Production &amp; Business Activity
+403,32263,International Data,32265,Indicators,32998,Prices
+404,32263,International Data,32265,Indicators,33247,Consumer Price Index
+405,32263,International Data,32265,Indicators,33254,Work Started
+406,32263,International Data,32265,Indicators,33261,Consumer opinion surveys
+407,32263,International Data,32265,Indicators,33274,Business tendency surveys (construction)
+408,32263,International Data,32265,Indicators,33281,Business tendency surveys (services)
+409,32263,International Data,32265,Indicators,33288,Business tendency surveys (manufacturing)
+410,32263,International Data,32265,Indicators,33344,Business tendency surveys (retail trade)
+411,32263,International Data,32265,Indicators,33368,Business tendency surveys (non-manufacturing)
+412,32263,International Data,32956,Institutions,33903,Advanced Economies
+413,32263,International Data,32956,Institutions,33127,Association of Southeast Asian Nations (ASEAN)
+414,32263,International Data,32956,Institutions,33126,Bureau of Labor Statistics Asian Newly Industrialized Countries
+415,32263,International Data,32956,Institutions,33124,Bureau of Labor Statistics Industrialized Countries
+416,32263,International Data,32956,Institutions,33128,Bureau of Labor Statistics Latin America
+417,32263,International Data,32956,Institutions,33125,Bureau of Labor Statistics Pacific Rim
+418,32263,International Data,32956,Institutions,33901,Emerging Markets
+419,32263,International Data,32956,Institutions,32947,Euro Area
+420,32263,International Data,32956,Institutions,33002,European Economic Area
+421,32263,International Data,32956,Institutions,32948,European Union
+422,32263,International Data,32956,Institutions,32958,Four Big European Countries
+423,32263,International Data,32956,Institutions,32959,Group of Seven (G7)
+424,32263,International Data,32956,Institutions,33083,Group of Twenty Finance Ministers and Central Bank Governors (G20)
+425,32263,International Data,32956,Institutions,33239,International Monetary Fund
+426,32263,International Data,32956,Institutions,33711,International Organizations
+427,32263,International Data,32956,Institutions,32957,Major 5 Asia
+428,32263,International Data,32956,Institutions,32960,NAFTA
+429,32263,International Data,32956,Institutions,33086,Non-OECD
+430,32263,International Data,32956,Institutions,33085,OECD Non-member Economies
+431,32263,International Data,32956,Institutions,32962,OECD Total
+432,32263,International Data,32956,Institutions,32961,OECD + Non-member Economies
+433,32263,International Data,32956,Institutions,33087,OECD - Europe
+434,32263,International Data,32956,Institutions,33713,Unidentified Countries
+435,32263,International Data,32956,Institutions,33909,Advance Technology Products
+436,32263,International Data,32956,Institutions,33911,NICS
+437,3008,U.S. Regional Data,27281,States,27282,Alabama
+438,3008,U.S. Regional Data,27281,States,27283,Alaska
+439,3008,U.S. Regional Data,27281,States,27284,Arizona
+440,3008,U.S. Regional Data,27281,States,149,Arkansas
+441,3008,U.S. Regional Data,27281,States,27286,California
+442,3008,U.S. Regional Data,27281,States,27287,Colorado
+443,3008,U.S. Regional Data,27281,States,27288,Connecticut
+444,3008,U.S. Regional Data,27281,States,27289,Delaware
+445,3008,U.S. Regional Data,27281,States,27290,District of Columbia
+446,3008,U.S. Regional Data,27281,States,27291,Florida
+447,3008,U.S. Regional Data,27281,States,27292,Georgia
+448,3008,U.S. Regional Data,27281,States,27293,Hawaii
+449,3008,U.S. Regional Data,27281,States,27294,Idaho
+450,3008,U.S. Regional Data,27281,States,150,Illinois
+451,3008,U.S. Regional Data,27281,States,151,Indiana
+452,3008,U.S. Regional Data,27281,States,27297,Iowa
+453,3008,U.S. Regional Data,27281,States,27298,Kansas
+454,3008,U.S. Regional Data,27281,States,152,Kentucky
+455,3008,U.S. Regional Data,27281,States,27300,Louisiana
+456,3008,U.S. Regional Data,27281,States,27301,Maine
+457,3008,U.S. Regional Data,27281,States,27302,Maryland
+458,3008,U.S. Regional Data,27281,States,27303,Massachusetts
+459,3008,U.S. Regional Data,27281,States,27304,Michigan
+460,3008,U.S. Regional Data,27281,States,27305,Minnesota
+461,3008,U.S. Regional Data,27281,States,153,Mississippi
+462,3008,U.S. Regional Data,27281,States,154,Missouri
+463,3008,U.S. Regional Data,27281,States,27308,Montana
+464,3008,U.S. Regional Data,27281,States,27309,Nebraska
+465,3008,U.S. Regional Data,27281,States,27310,Nevada
+466,3008,U.S. Regional Data,27281,States,27311,New Hampshire
+467,3008,U.S. Regional Data,27281,States,27312,New Jersey
+468,3008,U.S. Regional Data,27281,States,27313,New Mexico
+469,3008,U.S. Regional Data,27281,States,27314,New York
+470,3008,U.S. Regional Data,27281,States,27315,North Carolina
+471,3008,U.S. Regional Data,27281,States,27316,North Dakota
+472,3008,U.S. Regional Data,27281,States,27317,Ohio
+473,3008,U.S. Regional Data,27281,States,27318,Oklahoma
+474,3008,U.S. Regional Data,27281,States,27319,Oregon
+475,3008,U.S. Regional Data,27281,States,27320,Pennsylvania
+476,3008,U.S. Regional Data,27281,States,33504,Puerto Rico
+477,3008,U.S. Regional Data,27281,States,27322,Rhode Island
+478,3008,U.S. Regional Data,27281,States,27323,South Carolina
+479,3008,U.S. Regional Data,27281,States,27324,South Dakota
+480,3008,U.S. Regional Data,27281,States,193,Tennessee
+481,3008,U.S. Regional Data,27281,States,27326,Texas
+482,3008,U.S. Regional Data,27281,States,27328,Utah
+483,3008,U.S. Regional Data,27281,States,27329,Vermont
+484,3008,U.S. Regional Data,27281,States,33605,Virgin Islands
+485,3008,U.S. Regional Data,27281,States,27330,Virginia
+486,3008,U.S. Regional Data,27281,States,27332,West Virginia
+487,3008,U.S. Regional Data,27281,States,27331,Washington
+488,3008,U.S. Regional Data,27281,States,27333,Wisconsin
+489,3008,U.S. Regional Data,27281,States,27334,Wyoming
+490,3008,U.S. Regional Data,32043,Census Regions,32044,Midwest
+491,3008,U.S. Regional Data,32043,Census Regions,32045,Northeast
+492,3008,U.S. Regional Data,32043,Census Regions,32046,South
+493,3008,U.S. Regional Data,32043,Census Regions,32047,West
+494,3008,U.S. Regional Data,32061,BEA Regions,32062,Far West
+495,3008,U.S. Regional Data,32061,BEA Regions,32063,Great Lakes
+496,3008,U.S. Regional Data,32061,BEA Regions,32064,Mideast
+497,3008,U.S. Regional Data,32061,BEA Regions,32065,New England
+498,3008,U.S. Regional Data,32061,BEA Regions,32066,Plains
+499,3008,U.S. Regional Data,32061,BEA Regions,32067,Rocky Mountain
+500,3008,U.S. Regional Data,32061,BEA Regions,32068,Southeast
+501,3008,U.S. Regional Data,32061,BEA Regions,32069,Southwest
+502,3008,U.S. Regional Data,32849,BLS Regions,32851,Midwest Urban
+503,3008,U.S. Regional Data,32849,BLS Regions,32850,Northeast Urban
+504,3008,U.S. Regional Data,32849,BLS Regions,32852,South Urban
+505,3008,U.S. Regional Data,32849,BLS Regions,32853,West Urban
+506,3008,U.S. Regional Data,32849,BLS Regions,32860,"Population Size Class A (over 1,500,000)"
+507,3008,U.S. Regional Data,32849,BLS Regions,32861,"Population Size Class B/C (between 50,000 and 1,500,000)"
+508,3008,U.S. Regional Data,32849,BLS Regions,32862,"Population Size Class D (under 50,000)"
+509,3008,U.S. Regional Data,32071,Federal Reserve Districts,32146,Atlanta
+510,3008,U.S. Regional Data,32071,Federal Reserve Districts,32147,Boston
+511,3008,U.S. Regional Data,32071,Federal Reserve Districts,32148,Chicago
+512,3008,U.S. Regional Data,32071,Federal Reserve Districts,32149,Cleveland
+513,3008,U.S. Regional Data,32071,Federal Reserve Districts,32150,Dallas
+514,3008,U.S. Regional Data,32071,Federal Reserve Districts,32151,Kansas City
+515,3008,U.S. Regional Data,32071,Federal Reserve Districts,32152,Minneapolis
+516,3008,U.S. Regional Data,32071,Federal Reserve Districts,32153,New York
+517,3008,U.S. Regional Data,32071,Federal Reserve Districts,32154,Philadelphia
+518,3008,U.S. Regional Data,32071,Federal Reserve Districts,32155,Richmond
+519,3008,U.S. Regional Data,32071,Federal Reserve Districts,32156,San Francisco
+520,3008,U.S. Regional Data,32071,Federal Reserve Districts,133,St. Louis
+521,3008,U.S. Regional Data,32233,Freddie Mac Regions,32236,North Central
+522,3008,U.S. Regional Data,32233,Freddie Mac Regions,32234,Northeast
+523,3008,U.S. Regional Data,32233,Freddie Mac Regions,32235,Southeast
+524,3008,U.S. Regional Data,32233,Freddie Mac Regions,32237,Southwest
+525,3008,U.S. Regional Data,32233,Freddie Mac Regions,32238,West
+526,33060,Academic Data,33833,Banking and Monetary Statistics 1914-1941,33835,Section 1. General Statistics of All Banks in the United States
+527,33060,Academic Data,33833,Banking and Monetary Statistics 1914-1941,33837,Section 2. Assets and Liabilities of All Member Banks
+528,33060,Academic Data,33061,NBER Macrohistory Database,33062,Production of Commodities
+529,33060,Academic Data,33061,NBER Macrohistory Database,33063,Construction
+530,33060,Academic Data,33061,NBER Macrohistory Database,33064,Transportation and Public Utilities
+531,33060,Academic Data,33061,NBER Macrohistory Database,33065,Prices
+532,33060,Academic Data,33061,NBER Macrohistory Database,33066,Stocks of Commodities
+533,33060,Academic Data,33061,NBER Macrohistory Database,33067,Distribution of Commodities
+534,33060,Academic Data,33061,NBER Macrohistory Database,33068,Foreign Trade
+535,33060,Academic Data,33061,NBER Macrohistory Database,33069,Income and Employment
+536,33060,Academic Data,33061,NBER Macrohistory Database,33070,Financial Status of Business
+537,33060,Academic Data,33061,NBER Macrohistory Database,33071,Savings and Investment
+538,33060,Academic Data,33061,NBER Macrohistory Database,33072,Security Markets
+539,33060,Academic Data,33061,NBER Macrohistory Database,33073,Volume of Transactions
+540,33060,Academic Data,33061,NBER Macrohistory Database,33074,Interest Rates
+541,33060,Academic Data,33061,NBER Macrohistory Database,33075,Money and Banking
+542,33060,Academic Data,33061,NBER Macrohistory Database,33076,Government and Finance
+543,33060,Academic Data,33061,NBER Macrohistory Database,33077,Leading Indicators
+544,33060,Academic Data,33100,Penn World Table 7.1,33107,Component Shares of GDP per Capita (Constant Prices)
+545,33060,Academic Data,33100,Penn World Table 7.1,33106,Component Shares of GDP per Capita (Current Prices)
+546,33060,Academic Data,33100,Penn World Table 7.1,33102,Exchange Rates
+547,33060,Academic Data,33100,Penn World Table 7.1,33110,GDP per Capita (Current Prices)
+548,33060,Academic Data,33100,Penn World Table 7.1,33112,"Gross Domestic Income, Adjustments for Changes in Terms of Trade"
+549,33060,Academic Data,33100,Penn World Table 7.1,33105,Openness
+550,33060,Academic Data,33100,Penn World Table 7.1,33101,Population
+551,33060,Academic Data,33100,Penn World Table 7.1,33104,"Price Levels of GDP, Consumption, Government, and Investment"
+552,33060,Academic Data,33100,Penn World Table 7.1,33103,Purchasing Power Parity
+553,33060,Academic Data,33100,Penn World Table 7.1,33118,Purchasing Power Parity Converted GDP
+554,33060,Academic Data,33100,Penn World Table 7.1,33108,Ratio of GNP to GDP
+555,33060,Academic Data,33100,Penn World Table 7.1,33111,Real GDP per Capita (Constant Prices)
+556,33060,Academic Data,33100,Penn World Table 7.1,33109,Real GDP per Capita Relative to U.S.
+557,33060,Academic Data,33100,Penn World Table 7.1,33113,Real GDP per Equivalent Adult
+558,33060,Academic Data,33100,Penn World Table 7.1,33117,Real GDP per Hour Worked by Employees
+559,33060,Academic Data,33100,Penn World Table 7.1,33115,Real GDP per Person Engaged
+560,33060,Academic Data,33100,Penn World Table 7.1,33116,Real GDP per Person Counted in Total Employment
+561,33060,Academic Data,33100,Penn World Table 7.1,33114,Real GDP per Worker
+562,33060,Academic Data,33402,Penn World Table 9.0,33403,"Real GDP, Employment and Population Levels"
+563,33060,Academic Data,33402,Penn World Table 9.0,33404,"Current Price GDP, Capital and Total Factor Productivity"
+564,33060,Academic Data,33402,Penn World Table 9.0,33405,National Accounts-Based Variables
+565,33060,Academic Data,33402,Penn World Table 9.0,33406,Exchange Rates and GDP Price Levels
+566,33060,Academic Data,33402,Penn World Table 9.0,33407,Shares in Output-side Real GDP at Current Purchasing Power Parities
+567,33060,Academic Data,33402,Penn World Table 9.0,33408,"Price Levels, Expenditure Categories and Capital"
+568,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33845,National Accounts
+569,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33843,"Labour, Capital and Productivity"
+570,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33847,Wages and Prices
+571,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33849,Financial Markets
+572,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33851,Money and Credit
+573,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33853,Fiscal
+574,33060,Academic Data,33839,A Millennium of Macroeconomic Data for the UK,33855,Trade
