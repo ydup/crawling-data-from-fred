@@ -18,22 +18,30 @@ def download(rangeCato, name):
     allData = []
     dataInfo = []
     error = []
+    dataCate = []
     for index in rangeCato:
         if index < treeDF.shape[0]:
             try:
                 popu = fred.search_by_category(treeDF.loc[index, 'cate3Index'], limit=10, order_by='popularity', sort_order='desc')
                 for detailIndex, detialValues in popu.iterrows():
-                    dataInfo.append(fred.get_series_info(detailIndex))
-                allData.append(pd.DataFrame(fred.get_series(detailIndex), columns=[detailIndex]))
+                    try:
+                        dataInfo.append(fred.get_series_info(detailIndex))
+                    except:
+                        pass
+                    dataCate.append(list(np.hstack((treeDF.loc[index, :].values, detailIndex))))
+                    allData.append(pd.DataFrame(fred.get_series(detailIndex), columns=[detailIndex]))
                 allDataIn = pd.concat(allData, axis=1)
                 dataInfoIn = pd.concat(dataInfo, axis=1)
-                allDataIn.to_csv('allData'+name+'.csv')
-                dataInfoIn.to_csv('info'+name+'.csv')
+                dataCateIn = pd.DataFrame(dataCate, columns=['cate1Index', 'cate1Name', 'cate2Index', 'cate2Name', 'cate3Index','cate3Name', 'itemID'])
+                allDataIn.to_csv('data/allData'+name+'.csv')
+                dataInfoIn.to_csv('data/info'+name+'.csv')
+                dataCateIn.to_csv('data/dataCate'+name+'.csv')
             except:
                 print treeDF.loc[index, 'cate3Index'], 'can not be found'
                 error.append(treeDF.loc[index, 'cate3Index'])
-                np.savetxt('errorLog'+name+'.csv',error,delimiter=',')
+                np.savetxt('data/errorLog'+name+'.csv',error,delimiter=',')
     print 'thread %s ended.' % threading.current_thread().name
+
 
 threadList = [threading.Thread(target=download, args=(range(index*threadNum, (index+1)*threadNum), str(index),), name='DownloadThread'+str(index)) for index in range(threadNum)]
 
