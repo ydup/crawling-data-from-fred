@@ -7,7 +7,7 @@ fstRes = r'<p class="large fred-categories-parent">\n    <a href="/categories/(\
 # Second RES for the name and index of category - 2
 sndRes = r'<a href="( *)/categories/(\d+)">(.*?)</a>&nbsp;(.*?)</li>'
 # Third RES for the name and index of category - 3
-trdRes = r'<li><a href="(.*?)/categories/(\d+)">(.*?)</a>' # Some category has a space before the '/'
+trdRes = r'<li><a href="( *)/categories/(\d+)">(.*?)</a>' # Some category has a space before the '/'
 
 fstContent =  re.findall(fstRes, mainPage.text, re.S|re.M)
 for value1st in fstContent:

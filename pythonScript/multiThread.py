@@ -11,7 +11,7 @@ treeDF.index = range(treeDF.shape[0])
 totalWork = treeDF.shape[0]
 threadNum = 10
 # How many data to be crawled in the single thread
-singleWork = int((totalWork+threadNum)/threadNum)
+singleWork = int((totalWork)/threadNum)+1
 
 def download(rangeCato, name):
     print 'thread %s is running...' % threading.current_thread().name
@@ -43,7 +43,7 @@ def download(rangeCato, name):
     print 'thread %s ended.' % threading.current_thread().name
 
 
-threadList = [threading.Thread(target=download, args=(range(index*threadNum, (index+1)*threadNum), str(index),), name='DownloadThread'+str(index)) for index in range(threadNum)]
+threadList = [threading.Thread(target=download, args=(range(index*singleWork, (index+1)*singleWork), str(index),), name='DownloadThread'+str(index)) for index in range(threadNum)]
 
 for index, value in enumerate(threadList):
     value.start()
