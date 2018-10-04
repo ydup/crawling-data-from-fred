@@ -1,22 +1,18 @@
 """
+Author: Yadong Zhang
+Email: ydup@foxmail.com 
+Date: 10-4-2018
+License: MIT license
 Note: 
-This script crawl the structure tree of the fred.
+This script crawls the structure tree of the fred.
 I match the name and index of the category with three regular expressions, 
 and manage to establish a full map of all the categories.
-This tree can help we download the data with ID of categories.
+This tree can help us download the data with ID of categories.
 Finanlly, we get two files:
     1. save the csv file to data/cateTree.csv,
     ['cate1Index', 'cate1Name', 'cate2Index', 'cate2Name', 'cate3Index', 'cate3Name']
     2. save the json file to data/jsonFile.json for D3.js tree visualization
      {"name": name, "parent": parent, "children": children}
-
-Author: Yadong Zhang
-
-Email: ydup@foxmail.com 
-
-Date: 10-4-2018
-
-License: MIT license
 """
 import requests
 import re
