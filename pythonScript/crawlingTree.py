@@ -37,7 +37,7 @@ for value1st in fstContent:
     for cate2item in cate2:
         # Give them names
         cate2Index = cate2item[1]  # cate2 - index - string
-        cate2Name = cate2item[2]  # cate2 - index - string
+        cate2Name = cate2item[2]  # cate2 - name - string
         cate2NumString = cate2item[3]  # the sub-count of a specific item
         if cate2NumString == '':
             # Some of the second category which don't have the 'category-count' is the finanl category
@@ -49,7 +49,7 @@ for value1st in fstContent:
             trdContent =  re.findall(trdRes, cate3Page.text, re.S|re.M)
             for value3rd in trdContent:
                 cate3Index = value3rd[1]  # cate3 - index - string
-                cate3Name = value3rd[2]  # cate3 - index - string
+                cate3Name = value3rd[2]  # cate3 - name - string
                 if cate3Index == cate1Index:  
                     # this is a trap for the crawler
                     cateTable.append([int(cate1Index), cate1Name, int(cate2Index), cate2Name, int(cate2Index), cate2Name])
