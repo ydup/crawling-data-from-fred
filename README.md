@@ -17,4 +17,4 @@ This is a tutorial about how to crawl the FRED big data in a rapid and methodica
 + Download the top-10 popular data  in the __multi__ thread way
 	- [multiThread.py](pythonScript/multiThread.py)
 
-![tree][img/TreeExample.jpg]
+![image](img/TreeExample.jpg)
