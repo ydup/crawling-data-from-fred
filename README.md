@@ -2,7 +2,11 @@
 
 This is a tutorial about how to crawl the FRED big data in a rapid and methodical way
 
-+ The tree figure of the category structure of the FRED is in the [webpage](tree.html)
++ A interactive linear tree figure of the category structure of the FRED is in the [webpage](treeLinear.html), with the help of this [blog](http://bl.ocks.org/d3noob/8375092)
+![linearTree](img/linearTree.jpg)
+
++ A round tree figure is in the [webpage](treeRound.html), with the help of the [Observable notebook](https://beta.observablehq.com/@mbostock/d3-radial-tidy-tree)
+![roundTree](img/roundTree.jpg)
 
 + A [jupyter notebook](https://github.com/ydup/crawling-data-from-fred/blob/master/jupyter/CrawlingFRED.ipynb) of the strategy implemention. 
 
@@ -17,4 +21,3 @@ This is a tutorial about how to crawl the FRED big data in a rapid and methodica
 + Download the top-10 popular data  in the __multi__ thread way
 	- [multiThread.py](pythonScript/multiThread.py)
 
-![image](img/TreeExample.jpg)
